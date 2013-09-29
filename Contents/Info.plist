@@ -4,23 +4,9 @@
 <dict>
 	<key>CFBundleIdentifier</key>
 	<string>com.plexapp.plugins.dumpert</string>
-	<key>PlexAudioCodec</key>
-	<array>
-		<string>MP3</string>
-	</array>
 	<key>PlexClientPlatforms</key>
 	<string>*</string>
 	<key>PlexFrameworkVersion</key>
 	<string>2</string>
-	<key>PlexMediaContainer</key>
-	<array>
-		<string>FLV</string>
-	</array>
-	<key>PlexPluginConsoleLogging</key>
-	<string>0</string>
-	<key>PlexVideoCodec</key>
-	<array>
-		<string>H.263</string>
-	</array>
 </dict>
 </plist>
